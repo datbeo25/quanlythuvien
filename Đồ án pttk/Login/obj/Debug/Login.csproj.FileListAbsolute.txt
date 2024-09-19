@@ -1,0 +1,169 @@
+C:\C# winform\Đồ án pttk\Login\bin\Debug\Login.exe.config
+C:\C# winform\Đồ án pttk\Login\bin\Debug\Login.exe
+C:\C# winform\Đồ án pttk\Login\bin\Debug\Login.pdb
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.exe
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.pdb
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.QLHoivien.resources
+C:\C# winform\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+C:\xampp\htdocs\Phanmemnguonmo\Lab3\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+C:\Users\datbe\Downloads\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+C:\Users\thang\Downloads\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+D:\Visual studio\Do an PTTK\Đồ án pttk\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\bin\Debug\Login.exe.config
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\bin\Debug\Login.exe
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\bin\Debug\Login.pdb
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.exe
+D:\Tai lieu dồ án PTTK\Đồ án pttk\Login\obj\Debug\Login.pdb
+D:\doan\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+D:\doan\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+D:\doan\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+D:\doan\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+D:\HOC\Phan tich thiet ke he thong thong tin\doan phan tich thiet ke he thong thong tin\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
+D:\Project\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe.config
+D:\Project\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.exe
+D:\Project\Đồ án pttk\Đồ án pttk\Login\bin\Debug\Login.pdb
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Login.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Muonsach.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLdocgia.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLNhanvien.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLsach.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.QLtaikhoannv.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thehoivien.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Thongke.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trangchu.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.Trasach.resources
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.exe
+D:\Project\Đồ án pttk\Đồ án pttk\Login\obj\Debug\Login.pdb
